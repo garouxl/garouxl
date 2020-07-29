@@ -2,7 +2,6 @@
 
 Bem-vindo ao meu humilde repositório, puxe uma cadeira e fique a vontade 🎵🍺
 
-(https://img.shields.io/badge/SITE-portifólio-#ff0)(https://garouxl.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/laalmeida/)](https://www.linkedin.com/in/https://www.linkedin.com/in/laalmeida/)
 
 <!--
