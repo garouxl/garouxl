@@ -3,7 +3,7 @@
 Em casa de ferreiro o espeto é de pau 🎵🍺
 
 ⚡ Fun fact: ...
-In a blacksmith´s house the skewer is made of wood. 😁
+In a blacksmith´s house the skewer is made out of wood. 😁
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laalmeida/)](https://www.linkedin.com/in/laalmeida/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/laalmeida/)](https://www.linkedin.com/in/laalmeida/)
